@@ -1,0 +1,6 @@
+name: HoitsPlugin
+description: For mobs
+version: ${hoit.desc}
+authors: [tigerbong]
+depend: [MythicMobs]
+main: com.bongbong.mineage.hoit.HoitsPlugin
